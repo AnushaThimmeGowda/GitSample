@@ -8,6 +8,7 @@ public class Demo
 	public void sample()
 	{
       System.out.println("Smaple Method");
+      System.out.println("next Commit");
 	}
 
 }
