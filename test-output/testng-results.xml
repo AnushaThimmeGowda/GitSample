@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-03T16:36:53 CEST" name="Default suite" finished-at="2023-08-03T16:36:54 CEST" duration-ms="65">
+  <suite started-at="2023-08-03T17:09:02 CEST" name="Default suite" finished-at="2023-08-03T17:09:03 CEST" duration-ms="64">
     <groups>
     </groups>
-    <test started-at="2023-08-03T16:36:53 CEST" name="Default test" finished-at="2023-08-03T16:36:54 CEST" duration-ms="65">
-      <class name="Gitpractice.Sample">
-        <test-method signature="demoMethod()[pri:0, instance:Gitpractice.Sample@740773a3]" started-at="2023-08-03T16:36:54 CEST" name="demoMethod" finished-at="2023-08-03T16:36:54 CEST" duration-ms="12" status="PASS">
+    <test started-at="2023-08-03T17:09:02 CEST" name="Default test" finished-at="2023-08-03T17:09:03 CEST" duration-ms="64">
+      <class name="Gitpractice.Update">
+        <test-method signature="update()[pri:0, instance:Gitpractice.Update@65b3f4a4]" started-at="2023-08-03T17:09:02 CEST" name="update" finished-at="2023-08-03T17:09:03 CEST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demoMethod -->
-      </class> <!-- Gitpractice.Sample -->
+        </test-method> <!-- update -->
+      </class> <!-- Gitpractice.Update -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
