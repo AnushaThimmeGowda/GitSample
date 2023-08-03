@@ -9,5 +9,10 @@ public class Sample
 	{
 		System.out.println("Commit");
 	}
+	@Test
+	public void demo2()
+	{
+		System.out.println("Demo2 is committed");
+	}
 
 }
