@@ -14,6 +14,7 @@ public class Demo
 	public void secondSample()
 	{
 		System.out.println("2nd commit is done");
+		System.out.println("hello");
 	}
 
 }
